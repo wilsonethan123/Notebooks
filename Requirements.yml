@@ -1,5 +1,7 @@
+channels:
+  - conda
 dependencies:
--python
--pandas
--os
--glob
+  - python
+  - pandas
+  - os
+  - glob
